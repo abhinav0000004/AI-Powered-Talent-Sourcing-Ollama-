@@ -56,6 +56,10 @@ python process_and_evaluate.py
 3. Review the same Excel for results.
 
 ---
+
+## 🎥 Demo Video
+[Click here to watch the demo (GitHub link)](https://github.com/abhinav0000004/AI-Powered-Talent-Sourcing-Ollama-/raw/main/Demo%20Video.mp4)
+
 ## 🎥 Demo Video
 
 https://github.com/abhinav0000004/AI-Powered-Talent-Sourcing-Ollama-/blob/main/Demo%20Video.mp4
