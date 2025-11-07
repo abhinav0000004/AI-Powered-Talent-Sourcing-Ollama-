@@ -1,0 +1,40 @@
+{
+  "filters": {
+    "titles": [
+      "Machine Learning",
+      "NLP",
+      "AI"
+    ],
+    "skills_must": [
+      "Python",
+      "PyTorch",
+      "Neural Networks",
+      "Deep Learning"
+    ],
+    "skills_nice": [
+      "Natural Language Processing",
+      "Machine Learning Theory"
+    ],
+    "min_years_experience": 5,
+    "locations": [
+      "Berlin"
+    ],
+    "domains": [
+      "Manufacturing",
+      "Healthcare",
+      "Public Sector"
+    ],
+    "languages": [
+      "English",
+      "German"
+    ],
+    "education": [
+      "MSc/PhD in Computer Science, Machine Learning, or related technical field"
+    ],
+    "seniority": "Senior",
+    "exclude_keywords": [],
+    "open_to_work_preferred": true,
+    "recent_joiner_exclude_months": 3
+  },
+  "notes": "Map these to LinkedIn Recruiter UI filters or a partner API payload."
+}

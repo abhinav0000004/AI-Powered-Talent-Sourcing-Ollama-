@@ -1,0 +1,36 @@
+{
+  "role": "Senior Machine Learning Engineer",
+  "title_keywords": [
+    "Machine Learning",
+    "NLP",
+    "AI"
+  ],
+  "must_skills": [
+    "Python",
+    "PyTorch",
+    "Neural Networks",
+    "Deep Learning"
+  ],
+  "nice_skills": [
+    "Natural Language Processing",
+    "Machine Learning Theory"
+  ],
+  "min_years": 5,
+  "locations": [
+    "Berlin"
+  ],
+  "domains": [
+    "Manufacturing",
+    "Healthcare",
+    "Public Sector"
+  ],
+  "exclude_keywords": [],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "education": [
+    "MSc/PhD in Computer Science, Machine Learning, or related technical field"
+  ],
+  "seniority": "Senior"
+}
