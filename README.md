@@ -56,5 +56,9 @@ python process_and_evaluate.py
 3. Review the same Excel for results.
 
 ---
+## 🎥 Demo Video
+
+https://github.com/abhinav0000004/AI-Powered-Talent-Sourcing-Ollama-/blob/main/Demo%20Video.mp4
+
 
 Built for quick, private, and iterative AI-powered talent sourcing.
